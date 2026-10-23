@@ -1,0 +1,12 @@
+# Build output
+build/
+build-mac/
+dist/
+
+# Vendored dependency (cloned by build_mac.sh / CI)
+external/
+
+# Logs / temp
+*.log
+*.tmp
+.DS_Store

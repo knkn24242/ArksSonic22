@@ -1,0 +1,6 @@
+# Keep shell scripts and CI workflows LF so they run on macOS / Linux.
+*.sh   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.png  binary
+*.pdf  binary
